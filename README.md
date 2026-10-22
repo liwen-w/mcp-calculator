@@ -6,9 +6,10 @@
       "command": "uvx",
       "args": [
         "--from",
-        "git+https://github.com/liwen-w/mcp-calculator@main",
+        "git+https://github.com/liwen-w/mcp-calculator2@main",
         "calculator-server"
-      ]
+      ],
+      "env": {}
     }
   }
 }
